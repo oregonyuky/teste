@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">My Musics</string>
+
+    <string name="open_menu">Abrir</string>
+    <string name="close_menu">Fechar</string>
+
+    <string name="titulo">Título</string>
+    <string name="interprete">Intérprete</string>
+    <string name="ano">Ano</string>
+    <string name="duracao">Duração</string>
+    <string name="minutos">Minutos</string>
+    <string name="segundos">Segundos</string>
+    <string name="titulo_espaco">"Título: "</string>
+    <string name="interprete_espaco">"Intérprete: "</string>
+    <string name="genero_espaco">"Gênero: "</string>
+    <string name="duracao_espaco">"Duração: "</string>
+    <string name="ano_espaco">"Ano: "</string>
+    <string name="menu">Menu</string>
+    <string name="nova_musica">Nova música</string>
+    <string name="editar_musica">Editar música</string>
+    <string name="musicas">Músicas</string>
+    <string name="generos">Gêneros</string>
+    <string name="listar_musicas">Listar músicas</string>
+    <string name="listar_generos">Listar gêneros</string>
+    <string name="fechar">Fechar</string>
+    <string name="fechar_aplicativo">Fechar aplicativo</string>
+    <string name="novo_genero">Novo gênero</string>
+    <string name="editar_genero">Editar gênero</string>
+    <string name="nome_genero">Nome do gênero</string>
+    <string name="escolher_cor">Escolher cor</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="matiz">Matiz</string>
+    <string name="saturacao">Saturação</string>
+    <string name="brilho">Brilho</string>
+    <string name="cor_ja_cadastrada">Esta cor já está cadastrada em outro gênero.</string>
+    <string name="nome_genero_ja_cadastrado">Este nome de gênero já está cadastrado.</string>
+    <string name="erro_salvar_genero">Não foi possível salvar o gênero.</string>
+    <string name="salvar">Salvar</string>
+    <string name="pesquisar_musicas">Pesquisar músicas</string>
+    <string name="alterar">Alterar</string>
+    <string name="apagar">Apagar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>

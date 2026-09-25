@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NavDrawerModelo" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="windowActionBarOverlay">false</item>
+    </style>
+
+    <style name="Theme.NavDrawerModelo" parent="Base.Theme.NavDrawerModelo" />
+</resources>

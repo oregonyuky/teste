@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Antecipação de cheques</string>
+    <string name="juros_inicial">Juros mensais: 0,00%</string>
+    <string name="juros_formatado">Juros mensais: %.2f%%</string>
+    <string name="data_vencimento">Data de vencimento</string>
+    <string name="valor_cheque">Valor do cheque</string>
+    <string name="valor_exemplo">0,00</string>
+    <string name="incluir">Incluir</string>
+    <string name="valor">Valor</string>
+    <string name="vencimento">Vencimento</string>
+    <string name="dias">Dias</string>
+    <string name="juros">Juros</string>
+    <string name="lista_vazia">Nenhum cheque incluído</string>
+    <string name="erro_valor_obrigatorio">Informe o valor do cheque</string>
+    <string name="erro_valor_invalido">Informe um valor válido</string>
+    <string name="erro_valor_positivo">O valor deve ser maior que zero</string>
+    <string name="erro_data_passada">A data de vencimento não pode ser anterior a hoje</string>
+    <string name="cheque_removido">Cheque removido</string>
+    <string name="total_liquido_formatado">Total líquido: R$ %.2f</string>
+</resources>

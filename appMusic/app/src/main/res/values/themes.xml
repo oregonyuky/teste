@@ -1,0 +1,26 @@
+<resources>
+    <style name="AlertaCustomizado" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="colorPrimary">@color/rosa</item>
+    </style>
+
+    <style name="Theme.MyMusicApp" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/cinza</item> <!-- cor dos botões, inputs selecionados, botões de confirmação do snackbar -->
+        <item name="colorOnPrimary">@color/creme</item> <!-- cor do texto em botões -->
+        <item name="colorPrimaryContainer">@color/cinza</item>
+        <item name="colorOnPrimaryContainer">@color/creme</item>
+
+        <item name="android:colorBackground">@color/cinza_escuro</item>
+        <item name="colorOnBackground">@color/creme</item>
+
+        <item name="colorSurface">@color/cinza</item> <!-- Cor da superfície dos containeres, menus, etc... -->
+        <item name="colorOnSurface">@color/creme</item> <!-- Cor das letras no menu -->
+
+        <item name="colorSurfaceVariant">@color/rosa</item>
+        <item name="colorOnSurfaceVariant">@color/creme</item> <!-- Cor do texto no menu -->
+
+        <item name="colorOutline">@color/creme</item> <!-- Cor das bordas nos inputs de texto -->
+
+        <item name="android:statusBarColor">@color/creme</item> <!-- Cor da barra de status -->
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

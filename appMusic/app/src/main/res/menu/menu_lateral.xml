@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/it_nmusica"
+        android:title="@string/nova_musica" />
+    <item
+        android:id="@+id/it_ngenero"
+        android:title="@string/novo_genero" />
+    <item
+        android:id="@+id/it_lmusicas"
+        android:title="@string/listar_musicas" />
+    <item
+        android:id="@+id/it_lgeneros"
+        android:title="@string/listar_generos" />
+    <item
+        android:id="@+id/it_fechar"
+        android:title="@string/fechar_aplicativo" />
+</menu>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/imCadastrarMusica"
+        android:title="Cadastrar nova Musica" />
+    <item
+        android:id="@+id/imVisualizarMusicas"
+        android:title="Visualizar Musicas" />
+    <item
+        android:id="@+id/imCadastrarGenero"
+        android:title="Cadastrar Genero" />
+    <item
+        android:id="@+id/imVisualizarGenero"
+        android:title="Visualizar Generos" />
+    <item
+        android:id="@+id/imFinalizar"
+        android:title="Finalizar" />
+</menu>
